@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bonzi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bonzi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bonzi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bonzi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bonzi left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bonzi_assets",
+	"position": [
+		-190,
+		110
+	],
+	"healthicon": "bonzi",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
