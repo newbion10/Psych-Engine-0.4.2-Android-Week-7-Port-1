@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"faraday",
+			"human",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"mutiliation",
+			"ragdoll",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dollhouse",
+			"sand",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"interaction",
+			"buddy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"spyware",
+			"bonzi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"steam",
+		"bf",
+		"gf"
+	],
+	"storyName": "sandbox games",
+	"weekName": "sandbox",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
